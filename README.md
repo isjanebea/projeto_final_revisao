@@ -78,7 +78,7 @@ headers
 
 | Key | Value | Description
 | ----------- | ----------- | ----------- |
-| Athorization | Baerer token | token de autorizacao |
+| Authorization | Baerer token | token de autorizacao |
 
 
 response: `200  - ok`
