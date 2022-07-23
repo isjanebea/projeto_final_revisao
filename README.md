@@ -92,7 +92,7 @@ response: `200  - ok`
 ```
 ---
 
-#### Exemplo para exemplo de POST / PATCH
+#### Exemplo para exemplo de POST / PATCH / PUT
 
 ---
 POST /filmes
